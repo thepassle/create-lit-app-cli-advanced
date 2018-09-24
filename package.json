@@ -1,6 +1,6 @@
 {
   "name": "create-lit-app-advanced",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Create LitHTML apps with no build configuration.",
   "main": "index.js",
   "scripts": {
